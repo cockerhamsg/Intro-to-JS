@@ -1,5 +1,5 @@
 function say(words) {
-  console.log(words);
+  console.log(words + '!');
 }
 
 say('hello');
