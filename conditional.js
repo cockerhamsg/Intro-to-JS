@@ -1,4 +1,4 @@
-// Run this code in your browser with an HTML file
+// Run this code in your browser with a HTML file
 
 let a = prompt('Enter a number');
 
